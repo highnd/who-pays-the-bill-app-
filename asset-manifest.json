@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/who-pays-the-bill-app-/static/css/main.2fe5862c.chunk.css",
+    "main.js": "/who-pays-the-bill-app-/static/js/main.aea87a53.chunk.js",
+    "main.js.map": "/who-pays-the-bill-app-/static/js/main.aea87a53.chunk.js.map",
+    "runtime-main.js": "/who-pays-the-bill-app-/static/js/runtime-main.23c9caa0.js",
+    "runtime-main.js.map": "/who-pays-the-bill-app-/static/js/runtime-main.23c9caa0.js.map",
+    "static/css/2.63dbc4c2.chunk.css": "/who-pays-the-bill-app-/static/css/2.63dbc4c2.chunk.css",
+    "static/js/2.e275a849.chunk.js": "/who-pays-the-bill-app-/static/js/2.e275a849.chunk.js",
+    "static/js/2.e275a849.chunk.js.map": "/who-pays-the-bill-app-/static/js/2.e275a849.chunk.js.map",
+    "index.html": "/who-pays-the-bill-app-/index.html",
+    "static/css/2.63dbc4c2.chunk.css.map": "/who-pays-the-bill-app-/static/css/2.63dbc4c2.chunk.css.map",
+    "static/css/main.2fe5862c.chunk.css.map": "/who-pays-the-bill-app-/static/css/main.2fe5862c.chunk.css.map",
+    "static/js/2.e275a849.chunk.js.LICENSE.txt": "/who-pays-the-bill-app-/static/js/2.e275a849.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23c9caa0.js",
+    "static/css/2.63dbc4c2.chunk.css",
+    "static/js/2.e275a849.chunk.js",
+    "static/css/main.2fe5862c.chunk.css",
+    "static/js/main.aea87a53.chunk.js"
+  ]
+}
