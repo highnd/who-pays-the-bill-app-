@@ -1,0 +1,26 @@
+.container {
+  width: 550px;
+  min-height: 350px;
+  max-height: max-content;
+  display: flex;
+  margin: 100px auto;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0.5px 0.5px 5px 1px black;
+}
+.container p {
+  text-decoration: underline;
+  color: rgb(160, 25, 142);
+  text-decoration-color: rgb(55, 204, 10);
+  font-family: "Pacifico", cursive;
+  font-size: x-large;
+  margin-top: 5px;
+}
+
+.container .item {
+  width: max-content;
+  height: max-content;
+  background-color: inherit;
+  margin-top: 10px;
+}

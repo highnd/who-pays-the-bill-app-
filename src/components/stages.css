@@ -1,0 +1,68 @@
+.list-item {
+  list-style: none;
+  background-color: rgb(125, 211, 147);
+  padding: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid rgba(180, 14, 158, 0.445);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.list-item:hover {
+  border-bottom: 3px solid rgb(2, 29, 2);
+  background-color: rgb(35, 153, 19);
+  color: white;
+}
+
+.badge {
+  background-color: rgb(43, 41, 170);
+  cursor: pointer;
+}
+.action-button {
+  width: 80px;
+  height: 30px;
+  background-color: rgb(219, 30, 30);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  cursor: pointer;
+  margin-left: 110px;
+}
+
+.resultPage h3 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(20, 185, 185);
+}
+
+.looser {
+  font-size: x-large;
+  color: rgb(226, 24, 24);
+  font-weight: bolder;
+  box-shadow: 0px 2px 10px 0px black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 40px auto;
+}
+
+.container-button {
+  width: 300px;
+  display: flex;
+  height: 40px;
+  margin: 100px auto;
+}
+.re-button {
+  width: 50%;
+  background-color: rgb(5, 7, 110);
+  margin-left: 3px;
+  color: aliceblue;
+  font-family: "Pacifico", cursive;
+  font-size: small;
+}
+.s-button {
+  width: 50%;
+  background-color: crimson;
+  color: white;
+  font-family: "Pacifico", cursive;
+}
